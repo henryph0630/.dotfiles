@@ -1,0 +1,12 @@
+Henry Harper
+
+After creating a VIM configuration file, I inserted various configurations to augment my experience. Then, I copied the VIM file into a text file in my directory, and added text with my name and a short explanation of my actions. 
+
+syntax on
+set ruler
+set autoindent
+set number
+set ignorecase
+color elflord
+
+
