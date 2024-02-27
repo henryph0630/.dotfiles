@@ -1,0 +1,39 @@
+https://github.com/henryph0630/.dotfile
+
+Overall I performed quite well in this lab with some minor setbacks. Creating a repository was pretty simple, simply following the instructions as provided in the assignment yielded correct results. Creating a GitHub account was simple.
+
+My first issue arose when setting up Git on the Command Line. When creating the config file I accidently mispelled it as vonfig, leading to much confusion later on when I was unable to comect ./dotifles to my repository on GitHub. But I was able to discover this mistake by simply retracing my steps.
+
+Setup four was not difficult in itself but I did make the mistake of not adding the commands to the hw text file, leading to some difficulty later on when trying to retrieve my earlier commands.
+mkdir .dotfiles
+#1708974755
+ls
+#1708974788
+mkdir .dotfiles
+#1708974797
+cd .dotfiles/
+#1708974818
+touch README.md
+#1708974821
+ls
+#1708974827
+vim README.md
+#1708974914
+print README.md
+#1708974926
+head README.md
+#1708975033
+ls ~/csce215/
+#1708975081
+cd ..
+#1708975084
+ls
+#1708975093
+cd Desktop/
+#1708975094
+ls
+#1708975100
+cd ..
+#1708975151
+cp ~/Desktop/username_lab02_guided.txt ~/.dotfiles/
+
