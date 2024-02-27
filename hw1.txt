@@ -37,3 +37,7 @@ cd ..
 #1708975151
 cp ~/Desktop/username_lab02_guided.txt ~/.dotfiles/
 
+sources:
+https://code.visualstudio.com/docs/remote/troubleshooting#_reusing-a-key-generated-in-puttygen
+https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-denied-publickey
+https://forum.freecodecamp.org/t/permission-denied-when-pushing-to-repo/615023/2
